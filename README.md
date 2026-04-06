@@ -1,4 +1,4 @@
-# 📱 Mobile Sales Analytics Dashboard
+# 📱 Weather Analytics Dashboard
 ## An Interactive Power BI Dashboard for Forecast Insights & Environmental Intelligence
 
 A modern and visually compelling dashboard designed to monitor real-time weather conditions, analyze forecast trends, and evaluate air quality metrics—enabling smarter, data-driven environmental insights.
