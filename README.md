@@ -84,7 +84,7 @@ Wind Speed
 -Demonstrates effective use of data visualization in real-world scenarios
 
 ### 📸 Dashboard Preview
-![Alt Text](Add your image here — you can upload the same screenshot you shared)
+![Alt Text](https://github.com/vasvivkaushik-ship-it/weather-analytics-dashboard/blob/main/Dashboard.png)
 
 ### 🎯 Learning Outcomes
 - 📊 Advanced data visualization techniques in Power BI
